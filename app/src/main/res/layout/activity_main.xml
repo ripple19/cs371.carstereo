@@ -76,13 +76,13 @@
                 android:textOff="AM" />
 
             <Space
-                android:layout_width="550px"
-                android:layout_height="20px" />
+                android:layout_width="380px"
+                android:layout_height="10px" />
 
             <LinearLayout
                 android:orientation="horizontal"
-                android:layout_width="350dp"
-                android:layout_height="30dp"
+                android:layout_width="550dp"
+                android:layout_height="15dp"
                 android:background="#000000"></LinearLayout>
 
             <Space
