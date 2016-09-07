@@ -79,12 +79,11 @@
                 android:layout_width="550px"
                 android:layout_height="20px" />
 
-            <ImageView
+            <LinearLayout
+                android:orientation="horizontal"
                 android:layout_width="350dp"
-                android:layout_height="wrap_content"
-                android:id="@+id/imageView"
-                android:background="#0000FF"
-                android:src="@mipmap/ic_launcher" />
+                android:layout_height="30dp"
+                android:background="#000000"></LinearLayout>
 
             <Space
                 android:layout_width="400px"
